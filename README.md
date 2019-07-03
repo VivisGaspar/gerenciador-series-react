@@ -6,7 +6,7 @@ Neste projeto o objetivo foi entender e utilizar:
 
 - Componentes de classes e uso de Rotas.
 
-- Constuir uma API através do JSON Server.
+- Construir uma API através do JSON Server.
 
 Assista o uso da aplicação rodada localmente: [Gerenciador de séries React](https://youtu.be/6wY9imKOdjE)
 
