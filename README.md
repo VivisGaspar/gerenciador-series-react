@@ -10,6 +10,8 @@ Neste projeto o objetivo foi entender e utilizar:
 
 Assista o uso da aplicação rodada localmente: [Gerenciador de séries React](https://youtu.be/6wY9imKOdjE)
 
+![Gerenciador de séries](https://github.com/VivisGaspar/gerenciador-series-react/blob/master/public/images/portfolio_gerenciador_de_series.png?raw=true)
+
 ## Implementação
 
 Versão 0.0.1 - Permite editar e excluir séries, utilizando as operações (get,post,put,delete).
