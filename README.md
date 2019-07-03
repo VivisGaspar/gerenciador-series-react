@@ -8,12 +8,12 @@ Neste projeto o objetivo foi entender e utilizar:
 
 - Constuir uma API através do JSON Server.
 
-Conteúdo elaborado pelo Túlio Faria [DevPleno](https://www.devpleno.com/seriereactjs-aulas/)
+Conteúdo elaborado pelo Tulio Faria [devpleno](https://www.devpleno.com/seriereactjs-aulas/)
 
 Assista o uso da aplicação rodada localmente: [Gerenciador de séries React](https://youtu.be/6wY9imKOdjE)
 
-Implementação
+## Implementação
 
-Versão 0.0.1 - Permite Editar e Excluir séries, utilizandos as operações (get,post,put,delete).
+Versão 0.0.1 - Permite editar e excluir séries, utilizando as operações (get,post,put,delete).
 
-Versão 0.0.2 - Construir um servidor para API ou hospedagem Firebase.
+Versão 0.0.2 - (Futura) Construir um servidor para API ou hospedagem Firebase.
